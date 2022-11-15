@@ -34,7 +34,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "init-msw": "msw init public/",
-    "chromatic": "npx chromatic --project-token=11682b6550f5"
+    "chromatic": "npx chromatic"
   },
   "eslintConfig": {
     "extends": [
